@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohamthirty
-- 👀 I’m interested in Data Science, Machine Learning and Natural Language Processing.
+- 👀 I’m interested in Data Science, Machine Learning and Natural Language Processing
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on NLP and Kaggle Projects
 - 📫 How to reach me shinde.so@northeastern.edu
