@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohamsshinde)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet)](https://sohamthirty.github.io/soham-portfolio/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sohamthirty&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
