@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohamthirty
 - 👀 I’m interested in Data Science, Machine Learning and Natural Language Processing
-- 🌱 I’m currently learning PowerBI
+- 🌱 I’m currently learning PyTorch
 - 📫 How to reach me shinde.so@northeastern.edu
 
 ## 🌐 Socials:
