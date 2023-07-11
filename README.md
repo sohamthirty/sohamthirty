@@ -14,8 +14,7 @@
 
 
 # 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=sohamthirty&icon=0&color=12)]()
-
+[![](https://komarev.com/ghpvc/?username=sohamthirty&label=Profile%20views&color=0e75b6)]()<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohamthirty&theme=light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamthirty&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
