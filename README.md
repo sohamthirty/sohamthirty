@@ -12,10 +12,9 @@
 
 
 # 📊 GitHub Stats:
-- [![](https://komarev.com/ghpvc/?username=sohamthirty&label=Profile%20views&color=0e75b6)]()<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=sohamthirty&hide_border=true)](https://git.io/streak-stats)<br/>
+![](https://komarev.com/ghpvc/?username=sohamthirty&label=Profile%20views&color=0e75b6)</br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sohamthirty&hide_border=true)](https://git.io/streak-stats)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamthirty&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
----
 
 <!---
 sohamthirty/sohamthirty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
