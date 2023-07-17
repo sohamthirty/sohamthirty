@@ -11,13 +11,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sohamthirty1999@gmail.com)](mailto:sohamthirty1999@gmail.com)
 
 
-
-
 # 📊 GitHub Stats:
-[![](https://komarev.com/ghpvc/?username=sohamthirty&label=Profile%20views&color=0e75b6)]()<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sohamthirty)](https://git.io/streak-stats)<br/>
+- [![](https://komarev.com/ghpvc/?username=sohamthirty&label=Profile%20views&color=0e75b6)]()<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sohamthirty&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamthirty&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 
 <!---
