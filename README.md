@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sohamthirty
 - 👀 I’m interested in Data Science, Machine Learning and Natural Language Processing
 - 🌱 I’m currently learning PyTorch
+- ✍️ Checkout my first article: **[Fundamentals of PyTorch](https://sohamthirty.hashnode.dev/fundamentals-of-pytorch)**
 - 📫 How to reach me shinde.so@northeastern.edu
 
 ## 🌐 Socials:
