@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohamthirty
 - 👀 I’m interested in **Data Science, Machine Learning** and **Natural Language Processing**
-- 🌱 I’m currently practicing SQL
+- 🌱 I’m currently practicing SQL on Leetcode & Strata-Scratch
 - ✍️ Checkout my first article: **[Fundamentals of PyTorch](https://sohamthirty.hashnode.dev/fundamentals-of-pytorch)**
 - 📫 How to reach me shinde.so@northeastern.edu
 
