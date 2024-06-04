@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohamthirty
 - 👀 I’m interested in **Data Science, Machine Learning** and **Natural Language Processing**
-- 🌱 I’m currently practicing Python for Data Science using #30 days of pandas
+- 🌱 I’m currently learning Generative AI
 - ✍️ Checkout my first article: **[Fundamentals of PyTorch](https://sohamthirty.hashnode.dev/fundamentals-of-pytorch)**
 - 📫 How to reach me shinde.so@northeastern.edu
 
